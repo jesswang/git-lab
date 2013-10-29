@@ -9,3 +9,5 @@ Mitch: worsey@usc.edu, mitchworsey
 
 Lab: Tuesday 2pm
 
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
