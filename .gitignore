@@ -1,3 +1,8 @@
+bin/
+build/
+.classpath
+.project
+
 *.class
 
 # Package Files #
